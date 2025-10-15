@@ -1,8 +1,8 @@
 .calculadora{
     margin: auto; /*sentar*/
-    background-color: rgb(89, 64, 233);
+    background-color: rgb(233, 222, 64);
     padding: 10;
-    width: 200px;
+    width: 300px;
     height: 360px;
     border-radius: 10px;
 }.calculadora td button {
